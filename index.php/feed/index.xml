@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rockfall Radio</title>
-	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://radio.rockfall.tk/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link>https://radio.rockfall.tk</link>
 	<description>Positive Hits!</description>
 	<lastBuildDate>Sun, 18 Apr 2021 17:40:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/03/image-150x150.jpg</url>
+	<url>https://radio.rockfall.tk/wp-content/uploads/2021/03/image-150x150.jpg</url>
 	<title>Rockfall Radio</title>
-	<link></link>
+	<link>https://radio.rockfall.tk</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Rockfall Radio	</title>
-	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://radio.rockfall.tk/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://radio.rockfall.tk</link>
 	<description>Positive Hits!</description>
 	<lastBuildDate>Sun, 18 Apr 2021 17:40:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
